@@ -1,6 +1,6 @@
 name: hltdata
 description: health data
-downloadUrl: https://github.com/pmjacinto/hltdata/blob/main/
+downloadUrl: https://raw.githubusercontent.com/pmjacinto/hltdata/main/
 files:
   - name: covid-xaa.json.gz
     size: 16913470
