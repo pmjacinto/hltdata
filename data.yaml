@@ -1,0 +1,36 @@
+name: hltdata
+description: health data
+downloadUrl: https://github.com/pmjacinto/hltdata/blob/main/
+files:
+  - name: covid-xaa.json.gz
+    size: 16913470
+  - name: covid-xab.json.gz
+    size: 16088043
+  - name: covid-xac.json.gz
+    size: 12083846
+  - name: covid-xad.json.gz
+    size: 13961215
+  - name: covid-xae.json.gz
+    size: 13961215
+  - name: covid-xaf.json.gz
+    size: 11615551
+  - name: covid-xag.json.gz
+    size: 13917832
+  - name: covid-xah.json.gz
+    size: 13511547
+  - name: covid-xai.json.gz
+    size: 12278970
+  - name: covid-xaj.json.gz
+    size: 12809297
+  - name: covid-xak.json.gz
+    size: 13079724
+  - name: covid-xal.json.gz
+    size: 13503216
+  - name: covid-xam.json.gz
+    size: 11971089
+  - name: covid-xan.json.gz
+    size: 13805083
+  - name: covid-xao.json.gz
+    size: 13559328
+  - name: covid-xap.json.gz
+    size: 12675017
